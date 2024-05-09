@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T10:26:05 IST" name="Default suite" finished-at="2024-04-01T10:28:09 IST" duration-ms="124031">
+    <groups>
+    </groups>
+    <test started-at="2024-04-01T10:26:05 IST" name="Default test" finished-at="2024-04-01T10:28:09 IST" duration-ms="124031">
+      <class name="com.Main_Module.main_test">
+        <test-method is-config="true" signature="browser()[pri:0, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:26:05 IST" name="browser" finished-at="2024-04-01T10:26:10 IST" duration-ms="5272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="login()[pri:0, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:26:10 IST" name="login" finished-at="2024-04-01T10:26:22 IST" duration-ms="11526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="brand()[pri:1, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:26:22 IST" name="brand" finished-at="2024-04-01T10:26:28 IST" duration-ms="6097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brand -->
+        <test-method signature="addtocart()[pri:2, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:26:28 IST" name="addtocart" finished-at="2024-04-01T10:26:34 IST" duration-ms="6119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="checkout()[pri:3, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:26:34 IST" name="checkout" finished-at="2024-04-01T10:26:39 IST" duration-ms="5125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="details_enter()[pri:4, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:26:39 IST" name="details_enter" finished-at="2024-04-01T10:26:54 IST" duration-ms="14830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details_enter -->
+        <test-method signature="receipt()[pri:5, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:26:54 IST" name="receipt" finished-at="2024-04-01T10:26:58 IST" duration-ms="3992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- receipt -->
+        <test-method signature="c_shopping()[pri:6, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:26:58 IST" name="c_shopping" finished-at="2024-04-01T10:27:03 IST" duration-ms="5102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_shopping -->
+        <test-method signature="navigate()[pri:7, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:27:03 IST" name="navigate" finished-at="2024-04-01T10:27:30 IST" duration-ms="26817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="favbtn()[pri:8, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:27:30 IST" name="favbtn" finished-at="2024-04-01T10:27:50 IST" duration-ms="20047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- favbtn -->
+        <test-method signature="filter()[pri:9, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:27:50 IST" name="filter" finished-at="2024-04-01T10:27:54 IST" duration-ms="4219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter -->
+        <test-method signature="scr_down()[pri:10, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:27:54 IST" name="scr_down" finished-at="2024-04-01T10:28:04 IST" duration-ms="9371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scr_down -->
+        <test-method signature="logout_user()[pri:11, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:28:04 IST" name="logout_user" finished-at="2024-04-01T10:28:06 IST" duration-ms="2130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_user -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:com.Main_Module.main_test@5d0bf09b]" started-at="2024-04-01T10:28:06 IST" name="browserclose" finished-at="2024-04-01T10:28:09 IST" duration-ms="3266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.Main_Module.main_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
